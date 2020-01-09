@@ -1,8 +1,8 @@
-package golang_2
+package main
 
 import "fmt"
 
-package main() {
+func main() {
 
 	fmt.Println("Hello World")
 }
